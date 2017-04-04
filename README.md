@@ -1,40 +1,26 @@
-# Apatite 
-> Real Estate MIS
+# ATM Simulation Sample Application 
+> (Educational)
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-A software system for the business of real estate; the profession of buying, selling, or renting land, buildings or housing. I've designed this web application system for Arvidfava Co (http://www.Arvidfava.ir). It is open source and you can download it.
-### The project is currently in Farsi(Persian)
-![](https://github.com/Zamani2014/Apatite/blob/master/docs/Home_www_amlakemelal_ir.png)
+A software engineering project to learning OOA & OOD. The original project in the Java platform has developed and I moved it to the .NET platform.
+
 
 ## Installation
 
-OS X & Linux:
-
 ```sh
 Minimum requirements:
-1. Mono platform Support
-2. Apache HTTP Server
-3. Microsoft SQL Server 2008
-4. Shared Hosting Environment Or Dedicated Server
+1. .NET Platform / Mono platform Support (For Dot NET Version)
+2. Java Platform / Java Runtime Environment (JRE) (For Java Version)
 ```
 
-Windows:
-
-```sh
-Minimum requirements:
-1. Dot Net Platform 4 Support
-2. Microsoft SQL Server 2008 
-3. ASP.NET 4
-4. Shared Hosting Environment Or Dedicated Server
-```
 
 ## Usage example
 
 ```sh
-To buying, selling, or renting land, buildings or housing.
+To learning Object Oriented Analysis and Design (OOAD) and Object Oriented Programming (OOP)
 ```
 
 ## Development setup
@@ -42,7 +28,7 @@ To buying, selling, or renting land, buildings or housing.
 ```sh
 Minimum requirements:
 1. MS Visual Studio / MonoDevelop
-2. MS SQL Server 2008 / Express
+2. NetBeans IDE or another IDE
 ```
 
 ## Release History
